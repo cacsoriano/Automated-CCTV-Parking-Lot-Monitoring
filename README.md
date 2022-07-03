@@ -1,5 +1,7 @@
 # Park EZ: An Automated Parking Management System for Easy Parking
 
+!(https://github.com/cacsoriano/Automated-CCTV-Parking-Lot-Monitoring/raw/main/img/header.PNG)
+
 ### Executive Summary
 
 Parking management systems tend to inconvenience customers and serve as cost centers to business owners. Park EZ remedies these pains by serving as a parking management system alternative which automates the entire process for the customer while reducing the costs needed from the owner.
