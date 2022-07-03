@@ -1,6 +1,6 @@
 # Park EZ: An Automated Parking Management System for Easy Parking
 
-!(https://github.com/cacsoriano/Automated-CCTV-Parking-Lot-Monitoring/raw/main/img/header.PNG)
+![](https://github.com/cacsoriano/Automated-CCTV-Parking-Lot-Monitoring/raw/main/img/header.PNG)
 
 ### Executive Summary
 
